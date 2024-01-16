@@ -12,11 +12,17 @@ Ce projet propose deux outils pour manipuler des vidéos : un outil de découpe 
 ### Comment utiliser
 
 1. Clonez ou téléchargez ce répertoire sur votre machine.
+   
+2. Exécutez le script `dwnd.py` en utilisant Python.
+   ```bash
+   python dwnd.py
+   
+Renseigner les informations de la video à telecharger
 
-2. Exécutez le script `cut.py` en utilisant Python.
+3. Exécutez le script `cut.py` en utilisant Python.
    ```bash
    python cut.py
 
-3. Exécutez le script `dwnd.py` en utilisant Python.
-   ```bash
-   python dwnd.py
+Utilisez la video précédement telecharger dans ce script
+
+
