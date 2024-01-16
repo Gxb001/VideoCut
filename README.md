@@ -2,11 +2,12 @@
 
 Ce projet propose deux outils pour manipuler des vidéos : un outil de découpe de vidéos (`cut.py`) et un outil de téléchargement de vidéos depuis YouTube (`dwnd.py`).
 
-## Découpe de Vidéos (cut.py)
+## Découpe de Vidéos (cut.py) & Télechargement (dwnd.py)
 
 ### Prérequis
 - Python 3.x
 - MoviePy : Bibliothèque de traitement vidéo en Python (installez-la avec `pip install moviepy`)
+- Requierements.txt
 
 ### Comment utiliser
 
@@ -15,3 +16,7 @@ Ce projet propose deux outils pour manipuler des vidéos : un outil de découpe 
 2. Exécutez le script `cut.py` en utilisant Python.
    ```bash
    python cut.py
+
+3. Exécutez le script `dwnd.py` en utilisant Python.
+   ```bash
+   python dwnd.py
